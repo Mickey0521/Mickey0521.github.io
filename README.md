@@ -1,6 +1,7 @@
 # Mickey0521.github.io
 
-Mickey0521/Codility
+My repositories are as follows:
+
 - [Codility] 
 - https://mickey0521.github.io/Codility/
 
