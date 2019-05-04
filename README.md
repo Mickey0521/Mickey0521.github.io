@@ -1,5 +1,4 @@
 # Mickey0521.github.io
-Hello World
 
 Mickey0521/Codility
 - [Codility] 
